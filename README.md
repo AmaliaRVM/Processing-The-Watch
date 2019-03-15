@@ -8,7 +8,7 @@ Here you will find the topics and the links to my own presentations.
 Very simple introduction to processing in the context of a learning environment.  
 
 ##### Web Developer RoadMap  
-Let's talk about the web devoloper path...  
+Let's talk about the web developer path...  
 
 
 
